@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Chase
 
-I'm a founder currently working on [Hyperdrive](https://www.usehyperdrive.com). 
+I'm cofounder of [Hyperdrive](https://www.usehyperdrive.com). 
 
 ### Some of my other projects include:
 
