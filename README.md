@@ -8,7 +8,7 @@ I'm a founder currently working on [Hyperdrive](https://www.usehyperdrive.com).
 
 * **[Landy](https://www.uselandy.com)**: The world's most user-friendly property management tool. Use natural language to add expenses, recognize income, and query data.
 
-* **[LLMitless](https://github.com/cvansteenburg/LLMitless)**: API with endpoints for building and testing LLM chains
+* **[LLMitless](https://github.com/cvansteenburg/LLMitless)**: A scaffolding for building and testing LLM chains that are accessible via public endpoints.
 
 🧪 I'm especially interested in building APIs, and in practical application of language models to solve business problems.<br>
 🐍 I work mostly on backend in Python and C, but also have experience (breaking things) with various frontend technologies.<br>
