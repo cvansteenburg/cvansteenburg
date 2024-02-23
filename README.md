@@ -2,7 +2,7 @@
 
 I'm a founder currently working on [Hyperdrive](https://www.usehyperdrive.com). 
 
-### Some of my other work includes:
+### Some of my other projects include:
 
 * **[Briefly](https://www.getbrief.ing)**: Turn many emails into a single custom briefing. Only the topics you care about, delivered as often as you choose
 
