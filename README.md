@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Chase
 
-I'm currently building 🚀 **[redflag](https://www.redflagdata.com)**.
+I'm currently building 🚀 **[Redflag](https://www.redflagdata.com)**.
 
 ### Some of my other projects include:
 
