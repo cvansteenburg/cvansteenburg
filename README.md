@@ -12,4 +12,4 @@ I'm currently building 🚀 **[Redflag](https://www.redflagdata.com)**.
 
 🧪 I'm especially interested in building APIs and in practical application of language models to solve business problems.<br>
 🐍 I work mostly on backend in Python and C, but also have experience (breaking things) with various frontend technologies.<br>
-💼 I have a lot of experience on the business side of startups ([profile](linkedin.com/in/cvansteenburg)). If you're a founder and want to talk, feel free to reach out!
+💼 I have a lot of experience on the business side of startups ([profile](https://www.linkedin.com/in/cvansteenburg)). If you're a founder and want to talk, feel free to reach out!
