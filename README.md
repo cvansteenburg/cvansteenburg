@@ -1,8 +1,8 @@
 ### Hi 👋 I'm Chase
 
-I'm currently building 🚀 **[Redflag](https://www.redflagdata.com)**.
+### I'm currently building 🚀 **[Redflag](https://www.redflagdata.com)**: An AI-powered feasibility and due dilligence tool for commercial real estate.
 
-### Some of my other projects include:
+#### Some of my other projects include:
 
 * **[Briefly](https://www.getbrief.ing)**: Turn many emails into a single custom briefing. Only the topics you care about, delivered as often as you choose
 
